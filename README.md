@@ -1,3 +1,6 @@
+# Description
+R24-3 bootcamp exercise to add GitHub workflow actions to a node project. More details on this react app are below:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
